@@ -1,2 +1,3 @@
 @echo off
+@echo Updating......
 git add . && git commit -m "update API doc" && git push
